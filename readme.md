@@ -1,14 +1,14 @@
 # Javascript Class
 
 ## Code statement
-1.) Using javascript class,a simple code for students details(firstname,lastname,grade,marks,average).
-2.) Using javacript class,a code to find distance between two co-ordinate points.
+1. Using javascript class,a simple code for students details(firstname,lastname,grade,marks,average).
+2. Using javacript class,a code to find distance between two co-ordinate points.
 
 ## Prerequisites
 node js
 
 ## Setup
-* clone the repository
+* clone the repository.
 ```bash
 https://github.com/Mogalapalli-Sriram/Javascript-Class.git javascriptClass
 ```
@@ -18,11 +18,11 @@ cd javascriptClass
 ```
 
 ## Run the code
-* In the CLI ,type node and enter the .js filename you want to run.
+* In the CLI ,type node and enter the filename(javascriptClass.js or distance.js) you want to run.
 ```bash
 node <filename>.js
 ```
-* Try with different inputs in .js file and run again 
+* Try with different inputs in the code file and run again 
 
 
 
@@ -47,7 +47,10 @@ For the given class name and constructor method ,if we initialize the new object
 It is a method (function call) which calls on the instances of a class.
 
 ### Static
-It is a class method(function call) which calls on the class itself.It cannot be used as a function call on instances of a class.
+It is a class method(function call) which calls on the class itself.It cannot be used as a function call on instances of a class.Static is used to create utility functions for applications.
 
 
+### Code links
+[students.js](./javascriptClass.js)
+[distance.js](./distance.js)
 

@@ -28,12 +28,10 @@
     return "enrolled the details";
   }
 }
-/****************************Try the various inputs here *********************************/
+
 let firstStudent = new Student("Sriram", "Mogalapalli", [90,95]);
 let secondStudent = new Student("Mahesh","Navudu",[70,99]);
 console.log(firstStudent);
 console.log(firstStudent.markLate());
 console.log(firstStudent.calculateAverage());
-
-/*****************************************************************************************/
 

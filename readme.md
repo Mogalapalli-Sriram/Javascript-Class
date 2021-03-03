@@ -2,7 +2,7 @@
 
 ## Code statement
 1. Using javascript class,a simple code for students details(firstname,lastname,grade,marks,average).
-2. Using javacript class,a code to find distance between two co-ordinate points.
+2. Using javascript class,a code to find distance between two co-ordinate points.
 
 ## Prerequisites
 node js
@@ -49,8 +49,13 @@ It is a method (function call) which calls on the instances of a class.
 ### Static
 It is a class method(function call) which calls on the class itself.It cannot be used as a function call on instances of a class.Static is used to create utility functions for applications.
 
+### Rules to follow
+* Class name should begin with Uppercase.
+* If static method is used,the name should begin with Uppercase.
+* It has to have the exact name "constructor".
+
 
 ### Code links
-[students.js](./javascriptClass.js)
+[students.js](./javascriptClass.js) <br>
 [distance.js](./distance.js)
 

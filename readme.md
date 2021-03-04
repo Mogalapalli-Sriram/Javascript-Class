@@ -1,7 +1,7 @@
 # Javascript Class
 
 ## Code statement
-1. Using javascript class,a simple code for students details(firstname,lastname,grade,marks,average).
+1. Using javascript class,a simple code for students details(firstname,lastname,marks,average).
 2. Using javascript class,a code to find distance between two co-ordinate points.
 
 <br>

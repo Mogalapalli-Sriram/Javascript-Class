@@ -7,7 +7,7 @@
 <br>
 
 ## Prerequisites
-node js
+* node js (>= V13)
 
 <br>
 
@@ -23,9 +23,9 @@ cd javascriptClass
 <br>
 
 ## Run the code
-* In the CLI ,type node and enter the filename(javascriptClass.js or distance.js) you want to run.
+* In the CLI ,type node and enter the filename(studentClass.js or distance.js) you want to run.
 ```bash
-node <filename>.js
+node src/<filename>.js
 ```
 * Try with different inputs in the code file and run again 
 
@@ -69,6 +69,6 @@ It is a class method(function call) which calls on the class itself.It cannot be
 <br>
 
 ## Code links
-[students.js](./javascriptClass.js) <br>
-[distance.js](./distance.js)
+[students](./src) <br>
+[distance](./src)
 

@@ -2,6 +2,7 @@
   "name": "javascript-classes",
   "version": "1.0.0",
   "description": "1.) Using javascript class,a simple code for students details(firstname,lastname,grade,marks,average).\r 2.) Using javacript class,a code to find distance between two co-ordinate points.",
+  "type":"module",
   "main": "distance.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,4 +12,5 @@
   "devDependencies": {
     "eslint": "^7.21.0"
   }
+  
 }

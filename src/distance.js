@@ -1,4 +1,3 @@
-// const CoordinatePoint = require('./classes/CoordinatePoint');
 import CoordinatePoint from './classes/CoordinatePoint.mjs';
 let point1 = new CoordinatePoint(2,3);
 let point2 = new CoordinatePoint(5,7);
